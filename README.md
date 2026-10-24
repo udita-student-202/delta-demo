@@ -1,5 +1,5 @@
 # delta-demo
-<<<<<<< HEAD
+ 
 This is a Demo for Git &amp; Github a class.
 =======
 This is a Demo for Git & Github a class.
